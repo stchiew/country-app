@@ -6,9 +6,14 @@ Display information about a country. Input the name and the app will display inf
 
 | Version | Date              | Comments                      |
 | ------- | ----------------- | ----------------------------- |
+| 1.0.1   | March 3, 2025     | Commence country-app          |
 | 1.0.0   | February 24, 2025 | Scratch release to production |
 
 ## Changelog notes
+
+### v1.0.1
+
+- clear template, start with blank page
 
 ### v1.0.0
 
@@ -25,6 +30,12 @@ Display information about a country. Input the name and the app will display inf
 - [Vite](https://vite.dev)
 
 ## React + TypeScript + Vite
+
+```
+npm run dev
+npm run build
+npm run preview
+```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
