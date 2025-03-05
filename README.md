@@ -6,10 +6,15 @@ Display information about a country. Input the name and the app will display inf
 
 | Version | Date              | Comments                      |
 | ------- | ----------------- | ----------------------------- |
+| 1.0.2   | March 5, 2025     | updated yaml                  |
 | 1.0.1   | March 3, 2025     | Commence country-app          |
 | 1.0.0   | February 24, 2025 | Scratch release to production |
 
 ## Changelog notes
+
+### v1.0.2
+
+- run GH actions only on push to main
 
 ### v1.0.1
 
