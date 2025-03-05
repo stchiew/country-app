@@ -12,7 +12,7 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <p>Blank page for Country App v1.0.1</p>
+        <p>Blank page for Country App v1.0.2</p>
       </div>
     </>
   );
