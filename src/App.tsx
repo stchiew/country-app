@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./App.css";
+import CountryInformation from "./components/CountryInformation";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -13,6 +14,7 @@ function App() {
           count is {count}
         </button>
         <p>Blank page for Country App v1.0.2</p>
+        <CountryInformation />
       </div>
     </>
   );
